@@ -4,7 +4,7 @@ Used: HTML, CSS, JavaScript
 
 Features
 🕐Add new tasks
-🕐 tasks as completed
+🕐Mark tasks as completed
 🕐Delete tasks
 🕐Simple, responsive UI
 🕐Cute Kuromi aesthetic
